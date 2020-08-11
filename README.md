@@ -1,3 +1,3 @@
 # Issue formatting
 
-* [Suggestion OR TODO] - Name - Priority (TODO only)
+* [Suggestion or TODO] - Suggestion or TODO
