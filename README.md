@@ -12,9 +12,15 @@
   * [ ] Display parts on keypad screen
   * [ ] Store player's input for keypad
 * ##### Building
-*  [ ] Start proper building work
-*  [ ] Pull back terrain on plot
-*  [ ] Nice driveway
-  	* Do once it's added
-*  [ ] Cafe job
-	* Basic restocking?
+  *  [ ] Start proper building work
+  *  [ ] Pull back terrain on plot
+  *  [ ] Nice driveway
+      * Do once it's added
+  *  [ ] Cafe job
+      * Basic restocking?
+
+#### Scottish Borders
+* ##### Vehicles
+	* [ ] Remove two front tyres on Svettisin truck
+	* [ ] Fix back lights staying on for Svettisin truck
+	* [ ] Test the trains due to shaking
