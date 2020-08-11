@@ -11,6 +11,7 @@
   * [ ] Sounds
   * [ ] Display parts on keypad screen
   * [ ] Store player's input for keypad
+  * [ ] Digital number unions
 * ##### Building
   *  [ ] Start proper building work
   *  [ ] Pull back terrain on plot
