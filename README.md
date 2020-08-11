@@ -1,6 +1,6 @@
 # Issue formatting
 
-* [Suggestion or TODO] - Suggestion or TODO
+* [Suggestion or TODO] Title
 
 # Info
 
