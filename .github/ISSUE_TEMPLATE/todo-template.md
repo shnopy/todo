@@ -8,7 +8,3 @@ assignees: ''
 ---
 
 * Todo content
-
-### How would this be done?
-
-* Answer
