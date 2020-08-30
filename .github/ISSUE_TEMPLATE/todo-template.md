@@ -7,6 +7,4 @@ assignees: ''
 
 ---
 
-## Todo name
-
 * Todo content
